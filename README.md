@@ -1,1 +1,1 @@
-# Weaponry-Detection-using-CNN-random-Forest-and-SCm-
+# Weaponry-Detection-using-CNN-Random-Forest-and-SVM-
